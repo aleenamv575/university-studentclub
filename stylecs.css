@@ -1,0 +1,133 @@
+body {
+    font-family:  Helvetica, sans-serif;
+   
+  }
+  .my
+  {
+  background: #2565AE;
+  color:white;
+  
+  }
+  a
+  {
+  color: white;
+  }
+  .full {
+  background : #2565AE;
+    float: none;
+    border: 2px solid transparent ;
+    padding: 2px;
+  
+    margin-bottom: 20px;
+   overflow: auto;
+  
+    height: auto;
+  }
+  .maindiv {
+  width: 100%;
+    height: 200px;
+    border: 2px solid white;
+    padding: 2px;
+    float: left;
+    margin-bottom: 30px;
+    background-image: url('http://i.huffpost.com/gen/1909312/images/o-INDIA-TECHNOLOGY-facebook.jpg');
+    background-repeat: no-repeat;
+  }
+  .childdiv {
+    width: 30%;
+    border: 2px;
+    padding: 10px;
+    float: left;
+    text-align: center;
+  }
+  
+  h1,
+  h2 {
+    text-align: center;
+  color:#FFF8E5;
+  }
+  .my {
+    font-size: 50px;
+  }
+  .linkcontent {
+    height: 170px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 20px;
+  }
+  .childl {
+    float: left;
+  }
+  img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 10 left;
+  }
+  .d {
+    width: 10%;
+    border: 2px solid white;
+    padding: 20px;
+    float: left;
+    margin-right: 70px;
+    margin-bottom: 20px;
+  }
+  .a {
+    width: 35%;
+    border: 2px solid white;
+    padding: 20px;
+    float: left;
+    margin-right: 70px;
+    margin-bottom: 20px;
+  }
+  .b {
+    width: 40%;
+    border: 2px solid white;
+    padding: 20px;
+    float: left;
+    background:#D5F3FE; 
+   margin-left: 40px;
+  color:black;
+  }
+  .a,
+  .b {
+    display: none;
+  }
+  table {
+    border-collapse: collapse;
+  background:white;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 20px;
+  }
+  
+  .blue {
+    background: white;
+  }
+  
+  .news {
+    box-shadow: inset 0 -15px 30px white, 0 5px 10px;
+    width: 100%;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 4px;
+    padding: 1px;
+  }
+  
+  .news span {
+    float: left;
+    color: black;
+    padding: 9px;
+    position: relative;
+    top: 1%;
+    box-shadow: inset 0 -15px 30px white;
+    font: 16px "Raleway", Helvetica, Arial, sans-serif;
+  }
+  
+  .text1 {
+    box-shadow: none !important;
+    width: 750px;
+    color: black;
+  }

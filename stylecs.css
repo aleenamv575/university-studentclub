@@ -1,10 +1,10 @@
 body {
-    font-family:  Helvetica, sans-serif;
+    font-family:Uni Sans;
    
   }
   .my
   {
-  background: #2565AE;
+  background: #003153;
   color:white;
   
   }
@@ -13,7 +13,7 @@ body {
   color: white;
   }
   .full {
-  background : #2565AE;
+  background : #003153;
     float: none;
     border: 2px solid transparent ;
     padding: 2px;
@@ -28,7 +28,7 @@ body {
     height: 200px;
     border: 2px solid white;
     padding: 2px;
-    float: left;
+    float: right;
     margin-bottom: 30px;
     background-image: url('http://i.huffpost.com/gen/1909312/images/o-INDIA-TECHNOLOGY-facebook.jpg');
     background-repeat: no-repeat;
@@ -55,7 +55,7 @@ body {
     padding: 20px;
   }
   .childl {
-    float: left;
+    float: centre;
   }
   img {
     width: 50px;

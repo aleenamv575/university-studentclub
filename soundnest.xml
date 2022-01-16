@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="soundnest.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet type="text/xsl" href="soundnest.xsl"?>
+<soundnest>
+<modules>
+  <modulename>SOUND NEST</modulename>
+  <title>A MUSIC CLUB FOR ALL</title>
+   <club id="1" eventname="WOODROCK" Membercount="108" participantscount="87" year="2009"/>
+  <club id="2" eventname="SOUND CURRY" Membercount="200" participantscount="90" year="2011" />
+     <club id="3" eventname="JAZZ KIDDING" Membercount="12" participantscount="25" year="2015"/>
+     <club id="4" eventname="ORPHIC" Membercount="40" participantscount="19" year="2017"/>
+     <club id="5" eventname="SIGNATURE" Membercount="55" participantscount="40" year="2014"/>
+     <club id="6" eventname="BATTLE OF THE BANDS" Membercount="85" partipantscount=" 60" year="2018"/>
+     
+<s>
+   <student>
+        <id>1</id>
+        <name>Aleena Mary Varghese</name>
+        <email>aleenamv5@gmailcom</email>
+        <phone>8884712624</phone>
+        <reason>Passion for music</reason>
+        <usetype>student</usetype>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Rachel Deborah</name>
+        <email>rachelraven@gmail.com</email>
+        <phone>8884719624</phone>
+        <reason>Love for harmonies</reason>
+        <usetype>student</usetype>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Ralph Rajamathi</name>
+        <email>ralph@gmail.com</email>
+        <phone>990080993</phone>
+        <reason>I play the bass! I love it!</reason>
+        <usetype>student</usetype>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Sujay Sunil</name>
+        <email>sujay.sunil@gmail.com</email>
+        <phone>9646563434</phone>
+        <reason>A passionate drummer</reason>
+        <usetype>student</usetype>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Gautami</name>
+        <email>gautami@gmail.com</email>
+        <phone>9646563434</phone>
+        <reason> Love to sing in a group and make amazing memories.</reason>
+        <usetype>student</usetype>
+    </student>
+</s>
+
+<c>
+     <content about="students">
+      <title>ABOUT  Soundnest , OUR MISSION
+
+
+       </title>
+      </content>
+
+     <content about="soundnest">
+      <title>ABOUT soundnest
+      Music for All is committed to creating positively life-changing experiences for everyone within and connected to the organization. Our strategic plan honors those core values as expressed below:
+
+      </title>
+      </content>
+
+      <info>
+        
+        People - We are only as good as our people. We embrace loyalty and will recruit, recognize, and reward talented, performing, and committed people. We are committed to the growth of the team that serves Music for All, as well as those we serve.
+
+        Passion - People want to be inspired by something they can believe in, something that confers meaning in their lives and in their work. Fueled by our passion, we are committed to achieving excellence.
+
+         Innovation - Music for All operates with an entrepreneurial spirit, values creativity, and celebrates courageous innovation.
+
+        Integrity - We are committed to a high standard of integrity, a strong ethical framework, and a deep and abiding sense of respect for employees and others with whom we interact. We keep our promises and we deliver on what is promised. We are fair in all our actions and are committed to open and honest communication.
+
+        Diversity - At Music for All, equality is afforded to everyone regardless of his or her unique place in the diversity spectrum to broaden our cultural experience.
+
+        Leadership - We lead through positive action. We are committed to serving others for the greater good of society.
+
+         Lifelong Learning - Music for All is committed to lifelong learning and nurtures the pursuit of music-making by creating and providing quality opportunities and experiences for everyone.
+
+       </info>
+
+</c>
+</modules>
+ 
+
+</soundnest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soundnestclub>
+<snclub mid="M1">
+<event>Woodrock</event>
+<theme>Ice breaker</theme>
+<memberno>150</memberno>
+<price>750</price>
+</snclub>
+<snclub mid="M2">
+<event>Signature</event>
+<theme>Seasons</theme>
+<memberno>10</memberno>
+<price>1000</price>
+</snclub>
+<snclub mid="M3">
+<event>Sound Curry</event>
+<theme>Masala Cofee</theme>
+<memberno>105</memberno>
+<price>830</price>
+</snclub>
+<snclub mid="M4">
+<event>Orphic</event>
+<theme>Rock and Roll</theme>
+<memberno>8</memberno>
+<price>1050</price>
+</snclub>
+<snclub mid="M5">
+<event>Magnificat</event>
+<theme>Hope is born in Bethelehem!</theme>
+<memberno>8</memberno>
+<price>1050</price>
+</snclub>
+</soundnestclub>

@@ -1,0 +1,25 @@
+
+[
+    {
+      "membername": "Aleena",
+      "club" : "Music Academy",
+       "event": " Woodrock"
+        },
+    
+    {
+      "membername": "Gautami",
+      "club" : "Rockband",
+      
+        "event": " BOB"
+        
+      
+    },
+    {
+      "membername": "Cameryn",
+      "club" : "Acapella",
+  
+        "event": " Signature"
+        
+      
+    }
+  ]
